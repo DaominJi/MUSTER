@@ -1,0 +1,15 @@
+dd3890ab3c83791a1bce4dc700e5516a  corpus/corpus_elite_ccf_core_thu.jsonl.gz
+7712da2b062296df0670b6db74878156  longval/episodes.npz
+c3326346ad55209d2d16769188295520  longval/vectors_sci.npy
+c606a553900643be0c4e5abca168f36a  longval/vectors_sp2.npy
+efc60d7b7580d7e33fe3a225d9104da9  longval/works.tsv
+ec2fe0ea13d4a774adf15bb5ff3f8565  screen/model_sci.json
+cfea10ea64a673244e446ac9b3d7857c  screen/model_sp2.json
+16a884f474ac8d8c0950803ceb3e775a  screen/references.jsonl.gz
+06e7c0b771e897375016046614745ca7  screen/refs_csr.npz
+209e32c37478a826c59cba6305c52516  train/episodes.npz
+9cf0173f30bbd2b9ff16604a71d856bc  train/mu_sci.npy
+36b6dd35a4259d308de561438f750c6e  train/mu_sp2.npy
+a117c6f7054a62fdf79b9afff661226a  train/vectors_sci.npy
+c33cf03de1cccd107560498a572f0063  train/vectors_sp2.npy
+4d096aa89f8092d00e401733f74e62df  train/works.tsv

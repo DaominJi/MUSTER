@@ -1,0 +1,11 @@
+# Core dependencies (evaluation, validation, and training)
+torch>=2.4
+numpy>=1.24
+scipy>=1.10
+
+# Optional: required only for scripts/encode.py (encoding new papers)
+transformers>=4.40
+
+# Panel expansion (expansion/, scripts/expand*.py, tests/test_expansion.py)
+numba>=0.59
+ortools>=9.8

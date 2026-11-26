@@ -1,0 +1,13 @@
+# Large binary files are distributed separately and listed with their md5 in the MD5SUMS files.
+data/**/*.npy
+data/**/*.npz
+data/**/*.gz
+checkpoints/*.pt
+benchmarks/encodings/**/*.npy
+benchmarks/raw/
+runs/
+results/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
